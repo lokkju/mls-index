@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "zcta-data"
+name = "mlsindex"
 version = "0.1.0"
-description = "ZCTA Data GeoPackage"
+description = "Index of MLS services"
 authors = ["Loki Coyote <lokkju@gmail.com>"]
 readme = "README.md"
 

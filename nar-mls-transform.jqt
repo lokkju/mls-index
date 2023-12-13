@@ -1,0 +1,14 @@
+.places[] | {
+    mls_id: .id,
+    mls_name: .title,
+    latitude: .location.lat,
+    longitude: .location.lng,
+    office_address: .address,
+    office_city: .location.city,
+    office_state: .location.state,
+    office_zip: .location.postal_code,
+    phone: .location.extra_fields.phone,
+    website: .location.extra_fields.website,
+    realtor_count_by_association: .location.extra_fields."realtor-count-by-association",
+    associations: .location.extra_fields."association-of-realtors-name" | split(",") | map(ltrimstr(" ") | rtrimstr(" ")),
+}

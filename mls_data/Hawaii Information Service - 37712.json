@@ -1,0 +1,19 @@
+{
+  "mls_id": "37712",
+  "mls_name": "Hawaii Information Service",
+  "latitude": "19.72411",
+  "longitude": "-155.087",
+  "office_address": "Hilo HI 96720",
+  "office_city": "Hilo",
+  "office_state": "HI",
+  "office_zip": "96720",
+  "phone": "(808) 935-0827",
+  "website": "https://www.hawaiiinformation.com/",
+  "realtor_count_by_association": "2111",
+  "associations": [
+    "HAWAII ISLAND REALTORS",
+    "KAUAI BOARD OF REALTORS",
+    "WEST HAWAII ASSOCIATION OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

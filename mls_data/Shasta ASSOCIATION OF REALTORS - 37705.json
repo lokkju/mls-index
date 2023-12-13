@@ -1,0 +1,17 @@
+{
+  "mls_id": "37705",
+  "mls_name": "Shasta ASSOCIATION OF REALTORS",
+  "latitude": "40.52291",
+  "longitude": "-122.322",
+  "office_address": "Redding CA 96002",
+  "office_city": "Redding",
+  "office_state": "CA",
+  "office_zip": "96002",
+  "phone": "530-223-0410",
+  "website": "http://shastamls.com",
+  "realtor_count_by_association": "779",
+  "associations": [
+    "SHASTA ASSOCIATION OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

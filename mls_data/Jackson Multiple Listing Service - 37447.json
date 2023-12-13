@@ -1,0 +1,17 @@
+{
+  "mls_id": "37447",
+  "mls_name": "Jackson Multiple Listing Service",
+  "latitude": "42.20854",
+  "longitude": "-84.4068",
+  "office_address": "Jackson MI 49203",
+  "office_city": "Jackson",
+  "office_state": "MI",
+  "office_zip": "49203",
+  "phone": "517-787-6175",
+  "website": "https://www.jacksonmihomes.com/index.cfm",
+  "realtor_count_by_association": "371",
+  "associations": [
+    "JACKSON AREA ASSOCIATION OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

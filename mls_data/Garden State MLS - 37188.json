@@ -1,0 +1,20 @@
+{
+  "mls_id": "37188",
+  "mls_name": "Garden State MLS",
+  "latitude": "40.86205",
+  "longitude": "-74.3939",
+  "office_address": "Parsippany NJ 07054",
+  "office_city": "Parsippany",
+  "office_state": "NJ",
+  "office_zip": "07054",
+  "phone": "(973) 898-1900",
+  "website": "www.gsmls.com",
+  "realtor_count_by_association": "16774",
+  "associations": [
+    "HUNTERDON/SOMERSET ASSOCIATION OF REALTORS",
+    "NORTH CENTRAL JERSEY ASSOCIATION OF REALTORS",
+    "SUSSEX COUNTY ASSOCIATION OF REALTORS",
+    "WARREN COUNTY BOARD OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

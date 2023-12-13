@@ -1,0 +1,17 @@
+{
+  "mls_id": "37245",
+  "mls_name": "South Central ASSOCIATION OF REALTORS MLS",
+  "latitude": "37.3021",
+  "longitude": "-78.3919",
+  "office_address": "Farmville VA 23901",
+  "office_city": "Farmville",
+  "office_state": "VA",
+  "office_zip": "23901",
+  "phone": "(434) 392-9995",
+  "website": "http://www.usamls.net/southcentral/",
+  "realtor_count_by_association": "130",
+  "associations": [
+    "SOUTH CENTRAL ASSOCIATION OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

@@ -1,0 +1,20 @@
+{
+  "mls_id": "37729",
+  "mls_name": "Alaska MLS, Inc.",
+  "latitude": "61.19114",
+  "longitude": "-149.89",
+  "office_address": "Anchorage AK 99503",
+  "office_city": "Anchorage",
+  "office_state": "AK",
+  "office_zip": "99503",
+  "phone": "(907) 865-4100",
+  "website": "www.alaskarealestate.com",
+  "realtor_count_by_association": "1504",
+  "associations": [
+    "ANCHORAGE BOARD OF REALTORS",
+    "KENAI PENINSULA ASSOCIATION OF REALTORS",
+    "VALLEY BOARD OF REALTORS",
+    "KACHEMAK BOARD OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

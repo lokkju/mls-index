@@ -1,0 +1,17 @@
+{
+  "mls_id": "37409",
+  "mls_name": "Lancaster BOARD OF REALTORS MLS",
+  "latitude": "39.71368",
+  "longitude": "-82.5993",
+  "office_address": "Lancaster OH 43130",
+  "office_city": "Lancaster",
+  "office_state": "OH",
+  "office_zip": "43130",
+  "phone": "740-653-7200",
+  "website": "http://www.lancastermls.org/",
+  "realtor_count_by_association": "290",
+  "associations": [
+    "LANCASTER BOARD OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

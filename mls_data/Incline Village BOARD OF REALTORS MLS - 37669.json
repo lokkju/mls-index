@@ -1,0 +1,17 @@
+{
+  "mls_id": "37669",
+  "mls_name": "Incline Village BOARD OF REALTORS MLS",
+  "latitude": "39.24968",
+  "longitude": "-119.953",
+  "office_address": "Incline Village NV 89451",
+  "office_city": "Incline Village",
+  "office_state": "NV",
+  "office_zip": "89451",
+  "phone": "(775) 831-3777",
+  "website": "www.inclinerealtors.com",
+  "realtor_count_by_association": "190",
+  "associations": [
+    "INCLINE VILLAGE REALTORS"
+  ],
+  "zipcode_coverage": ["89012","89135","89402","89403","89410","89413","89423","89431","89433","89434","89436","89439","89440","89448","89449","89450","89451","89460","89501","89502","89506","89509","89511","89512","89519","89521","89523","89701","89703","89704","89705","89706","95060","95646","96106","96120","96140","96141","96142","96143","96145","96146","96148","96150","96161"]
+}

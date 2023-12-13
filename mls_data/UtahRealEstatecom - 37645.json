@@ -1,0 +1,22 @@
+{
+  "mls_id": "37645",
+  "mls_name": "UtahRealEstate.com",
+  "latitude": "40.57491",
+  "longitude": "-111.887",
+  "office_address": "Sandy UT 84070",
+  "office_city": "Sandy",
+  "office_state": "UT",
+  "office_zip": "84070",
+  "phone": "(801) 676-5400",
+  "website": "www.utahrealestate.com.com",
+  "realtor_count_by_association": "16016",
+  "associations": [
+    "BRIGHAM TREMONTON BOARD OF REALTORS",
+    "CACHE RICH ASSOCIATION OF REALTORS",
+    "NORTHERN WASATCH ASSOCIATION OF REALTORS",
+    "SALT LAKE BOARD OF REALTORS",
+    "TOOELE COUNTY ASSOCIATION OF REALTORS",
+    "UTAH CENTRAL ASSOCIATION OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

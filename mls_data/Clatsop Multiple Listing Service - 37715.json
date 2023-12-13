@@ -1,0 +1,17 @@
+{
+  "mls_id": "37715",
+  "mls_name": "Clatsop Multiple Listing Service",
+  "latitude": "46.02427",
+  "longitude": "-123.911",
+  "office_address": "Gearhart OR 97138",
+  "office_city": "Gearhart",
+  "office_state": "OR",
+  "office_zip": "97138",
+  "phone": "503-738-6444",
+  "website": "http://www.clatsoprealtors.org/",
+  "realtor_count_by_association": "169",
+  "associations": [
+    "CLATSOP ASSOCIATION OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

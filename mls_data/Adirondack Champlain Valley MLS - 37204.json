@@ -1,0 +1,18 @@
+{
+  "mls_id": "37204",
+  "mls_name": "Adirondack Champlain Valley MLS",
+  "latitude": "44.69949",
+  "longitude": "-73.4529",
+  "office_address": "Plattsburgh NY 12901",
+  "office_city": "Plattsburgh",
+  "office_state": "NY",
+  "office_zip": "12901",
+  "phone": "(518) 561-8777",
+  "website": "http://board.usamls.net/adirondack-champlainvalley/default.asp",
+  "realtor_count_by_association": "452",
+  "associations": [
+    "CLINTON COUNTY BOARD OF REALTORS",
+    "NORTHERN ADIRONDACK BOARD OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

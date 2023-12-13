@@ -1,0 +1,30 @@
+{
+  "mls_id": "37429",
+  "mls_name": "Indiana Regional MLS",
+  "latitude": "38.86116",
+  "longitude": "-86.4872",
+  "office_address": "Bedford IN 47421",
+  "office_city": "Bedford",
+  "office_state": "IN",
+  "office_zip": "47421",
+  "phone": "(812) 277-1861",
+  "website": "http://www.reindiana.com/",
+  "realtor_count_by_association": "6365",
+  "associations": [
+    "BEDFORD BOARD OF REALTORS",
+    "BLOOMINGTON BOARD OF REALTORS",
+    "ELKHART COUNTY BOARD OF REALTORS",
+    "GREATER SOUTH BEND- MISHAWAKA ASSOCIATION OF REALTORS",
+    "KOSCIUSKO BOARD OF REALTORS",
+    "LAFAYETTE REGIONAL ASSOCIATION OF REALTORS",
+    "MID-EASTERN INDIANA ASSOCIATION OF REALTORS",
+    "NORTH CENTRAL INDIANA ASSOCIATION OF REALTORS",
+    "NORTHEASTERN INDIANA ASSOCIATION OF REALTORS",
+    "REALTORS ASSOCIATION OF CENTRAL INDIANA",
+    "SOUTHWEST INDIANA ASSOCIATION OF REALTORS",
+    "UPSTATE ALLIANCE OF REALTORS",
+    "WASHINGTON COUNTY BOARD OF REALTORS",
+    "WHITE COUNTY ASSOCIATION OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

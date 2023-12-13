@@ -1,0 +1,21 @@
+{
+  "mls_id": "37567",
+  "mls_name": "MLS Technology, Inc.",
+  "latitude": "36.01904",
+  "longitude": "-95.9304",
+  "office_address": "Tulsa OK 74137",
+  "office_city": "Tulsa",
+  "office_state": "OK",
+  "office_zip": "74137",
+  "phone": "918-663-7500",
+  "website": "http://www.tulsarealtors.com/",
+  "realtor_count_by_association": "5793",
+  "associations": [
+    "ADA BOARD OF REALTORS",
+    "GREATER TULSA ASSOCIATION OF REALTORS",
+    "SOUTHEASTERN OKLAHOMA ASSOCIATION OF REALTORS",
+    "SOUTHERN OKLAHOMA BOARD OF REALTORS",
+    "TEXOMA BOARD OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

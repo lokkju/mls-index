@@ -1,0 +1,21 @@
+{
+  "mls_id": "37400",
+  "mls_name": "Western Kentucky Regional MLS Inc.",
+  "latitude": "36.84983",
+  "longitude": "-88.6627",
+  "office_address": "Hickory KY 42051",
+  "office_city": "Hickory",
+  "office_state": "KY",
+  "office_zip": "42051",
+  "phone": "(270) 658-3958",
+  "website": "",
+  "realtor_count_by_association": "569",
+  "associations": [
+    "KENTUCKY BARKLEY LAKES BOARD OF REALTORS",
+    "MAYFIELD GRAVES COUNTY BOARD OF REALTORS",
+    "MURRAY CALLOWAY COUNTY BOARD OF REALTORS",
+    "PADUCAH BOARD OF REALTORS",
+    "PENNYRILE BOARD OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

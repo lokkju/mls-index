@@ -1,0 +1,20 @@
+{
+  "mls_id": "37507",
+  "mls_name": "RMLS Alliance, LLC",
+  "latitude": "40.76583",
+  "longitude": "-89.5969",
+  "office_address": "Peoria IL 61614",
+  "office_city": "Peoria",
+  "office_state": "IL",
+  "office_zip": "61614",
+  "phone": "(309) 688-8591",
+  "website": "http://www.paarealtors.com/",
+  "realtor_count_by_association": "2934",
+  "associations": [
+    "CAPITAL AREA ASSOCIATION OF REALTORS",
+    "EGYPTIAN BOARD OF REALTORS",
+    "PEORIA AREA ASSOCIATION OF REALTORS",
+    "QUAD CITY AREA REALTOR ASSOCIATION"
+  ],
+  "zipcode_coverage": []
+}

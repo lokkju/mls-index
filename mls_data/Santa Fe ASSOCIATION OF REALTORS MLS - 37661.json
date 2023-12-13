@@ -1,0 +1,17 @@
+{
+  "mls_id": "37661",
+  "mls_name": "Santa Fe ASSOCIATION OF REALTORS MLS",
+  "latitude": "35.71354",
+  "longitude": "-105.841",
+  "office_address": "Santa Fe NM 87501",
+  "office_city": "Santa Fe",
+  "office_state": "NM",
+  "office_zip": "87501",
+  "phone": "505-982-8385",
+  "website": "www.sfar.com/",
+  "realtor_count_by_association": "968",
+  "associations": [
+    "SANTA FE ASSOCIATION OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

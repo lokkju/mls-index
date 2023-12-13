@@ -1,0 +1,17 @@
+{
+  "mls_id": "37610",
+  "mls_name": "Amarillo ASSOCIATION OF REALTORS MLS",
+  "latitude": "35.20189",
+  "longitude": "-101.895",
+  "office_address": "Amarillo TX 79106",
+  "office_city": "Amarillo",
+  "office_state": "TX",
+  "office_zip": "79106",
+  "phone": "(806) 358-7736",
+  "website": "http://www.amarillorealtors.org/",
+  "realtor_count_by_association": "1045",
+  "associations": [
+    "AMARILLO ASSOCIATION OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

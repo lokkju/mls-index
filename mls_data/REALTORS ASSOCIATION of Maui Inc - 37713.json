@@ -1,0 +1,17 @@
+{
+  "mls_id": "37713",
+  "mls_name": "REALTORS ASSOCIATION of Maui, Inc.",
+  "latitude": "20.87331",
+  "longitude": "-156.463",
+  "office_address": "Kahului HI 96732",
+  "office_city": "Kahului",
+  "office_state": "HI",
+  "office_zip": "96732",
+  "phone": "(808) 873-8585",
+  "website": "http://www.mauiboard.com",
+  "realtor_count_by_association": "1833",
+  "associations": [
+    "REALTORS ASSOCIATION OF MAUI"
+  ],
+  "zipcode_coverage": ["96708","96709","96713","96729","96732","96748","96753","96754","96757","96761","96763","96767","96768","96770","96778","96779","96790","96793","96814"]
+}

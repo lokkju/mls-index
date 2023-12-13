@@ -1,0 +1,25 @@
+{
+  "mls_id": "37367",
+  "mls_name": "RealTracs MLS",
+  "latitude": "35.98055",
+  "longitude": "-86.7617",
+  "office_address": "Brentwood TN 37027",
+  "office_city": "Brentwood",
+  "office_state": "TN",
+  "office_zip": "37027",
+  "phone": "(615) 385-0777",
+  "website": "http://www.realtracs.com/",
+  "realtor_count_by_association": "18283",
+  "associations": [
+    "CLARKSVILLE ASSOCIATION OF REALTORS",
+    "EASTERN MIDDLE TENNESSEE ASSOCIATION OF REALTORS",
+    "GREATER NASHVILLE ASSOCIATION OF REALTORS",
+    "MIDDLE TENNESSEE ASSOCIATION OF REALTORS",
+    "ROBERTSON COUNTY ASSOCIATION OF REALTORS",
+    "SOUTHERN MIDDLE TENNESSEE ASSOCIATION OF REALTORS",
+    "SUMNER ASSOCIATION OF REALTORS",
+    "WARREN COUNTY BOARD OF REALTORS",
+    "WILLIAMSON COUNTY ASSOCIATION OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

@@ -1,0 +1,17 @@
+{
+  "mls_id": "37364",
+  "mls_name": "Gulf Coast Multiple Listing Service (GCMLS)",
+  "latitude": "30.68099",
+  "longitude": "-88.1047",
+  "office_address": "Mobile AL 36606",
+  "office_city": "Mobile",
+  "office_state": "AL",
+  "office_zip": "36606",
+  "phone": "(251) 479-8654",
+  "website": "http://www.gulfcoastmls.com",
+  "realtor_count_by_association": "1577",
+  "associations": [
+    "MOBILE AREA ASSOCIATION OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

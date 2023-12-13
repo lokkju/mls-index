@@ -1,0 +1,18 @@
+{
+  "mls_id": "37281",
+  "mls_name": "Consolidated Multiple Listing Service",
+  "latitude": "34.02912",
+  "longitude": "-81.0037",
+  "office_address": "Columbia SC 29204",
+  "office_city": "Columbia",
+  "office_state": "SC",
+  "office_zip": "29204",
+  "phone": "(803) 771-8852",
+  "website": "http://www.columbiamls.com/",
+  "realtor_count_by_association": "3587",
+  "associations": [
+    "CENTRAL CAROLINA REALTORS ASSOCIATION",
+    "KERSHAW COUNTY BOARD OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

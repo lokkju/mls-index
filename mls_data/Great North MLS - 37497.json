@@ -1,0 +1,19 @@
+{
+  "mls_id": "37497",
+  "mls_name": "Great North MLS",
+  "latitude": "46.80833",
+  "longitude": "-100.784",
+  "office_address": "Bismarck ND 58503",
+  "office_city": "Bismarck",
+  "office_state": "ND",
+  "office_zip": "58503",
+  "phone": "701-255-0712",
+  "website": "www.bismarckmandanhomes.com/",
+  "realtor_count_by_association": "679",
+  "associations": [
+    "BISMARCK MANDAN BOARD OF REALTORS",
+    "JAMESTOWN BOARD OF REALTORS",
+    "WILLISTON BOARD OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

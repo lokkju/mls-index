@@ -1,0 +1,17 @@
+{
+  "mls_id": "37578",
+  "mls_name": "San Angelo ASSOCIATION OF REALTORS MLS",
+  "latitude": "31.46377",
+  "longitude": "-100.437",
+  "office_address": "San Angelo TX 76901",
+  "office_city": "San Angelo",
+  "office_state": "TX",
+  "office_zip": "76901",
+  "phone": "(325) 944-2521",
+  "website": "http://www.sanangelorealtors.org/",
+  "realtor_count_by_association": "456",
+  "associations": [
+    "SAN ANGELO ASSOCIATION OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

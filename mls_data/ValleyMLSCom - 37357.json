@@ -1,0 +1,21 @@
+{
+  "mls_id": "37357",
+  "mls_name": "ValleyMLS.Com",
+  "latitude": "34.73645",
+  "longitude": "-86.5502",
+  "office_address": "Huntsville AL 35801",
+  "office_city": "Huntsville",
+  "office_state": "AL",
+  "office_zip": "35801",
+  "phone": "256-536-3334",
+  "website": "http://www.valleymls.com/",
+  "realtor_count_by_association": "4214",
+  "associations": [
+    "ATHENS-LIMESTONE ASSOCIATION OF REALTORS",
+    "ETOWAH-CHEROKEE COUNTY ASSOCIATION OF REALTORS",
+    "HUNTSVILLE AREA ASSOCIATION OF REALTORS",
+    "MARSHALL COUNTY BOARD OF REALTORS",
+    "MORGAN COUNTY ASSOCIATION OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

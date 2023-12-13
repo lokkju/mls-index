@@ -1,0 +1,17 @@
+{
+  "mls_id": "37682",
+  "mls_name": "Santa Barbara ASSOCIATION OF REALTORS MLS",
+  "latitude": "34.42033",
+  "longitude": "-119.711",
+  "office_address": "Santa Barbara CA 93101",
+  "office_city": "Santa Barbara",
+  "office_state": "CA",
+  "office_zip": "93101",
+  "phone": "805-963-3787",
+  "website": "http://www.sbaor.com/",
+  "realtor_count_by_association": "1251",
+  "associations": [
+    "SANTA BARBARA ASSOCIATION OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

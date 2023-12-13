@@ -1,0 +1,18 @@
+{
+  "mls_id": "37603",
+  "mls_name": "Austin Central Texas Realty Information Svc (ACTRIS)",
+  "latitude": "30.40136",
+  "longitude": "-97.7525",
+  "office_address": "Austin TX 78759",
+  "office_city": "Austin",
+  "office_state": "TX",
+  "office_zip": "78759",
+  "phone": "(512) 454-7637 x1100",
+  "website": "https://www.abor.com",
+  "realtor_count_by_association": "15000",
+  "associations": [
+    "AUSTIN BOARD OF REALTORS",
+    "BASTROP COUNTY BOARD OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

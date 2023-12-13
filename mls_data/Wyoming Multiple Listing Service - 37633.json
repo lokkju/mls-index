@@ -1,0 +1,23 @@
+{
+  "mls_id": "37633",
+  "mls_name": "Wyoming Multiple Listing Service",
+  "latitude": "43.09813",
+  "longitude": "-106.393",
+  "office_address": "Casper WY 82601",
+  "office_city": "Casper",
+  "office_state": "WY",
+  "office_zip": "82601",
+  "phone": "(307) 577-7355",
+  "website": "http://www.wyomingmls.com/",
+  "realtor_count_by_association": "701",
+  "associations": [
+    "CARBON COUNTY BOARD OF REALTORS",
+    "CASPER BOARD OF REALTORS",
+    "DOUGLAS BOARD OF REALTORS",
+    "FREMONT COUNTY BOARD OF REALTORS",
+    "NORTH PLATTE VALLEY BOARD OF REALTORS",
+    "SWEETWATER COUNTY BOARD OF REALTORS",
+    "WESTERN WYOMING BOARD OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

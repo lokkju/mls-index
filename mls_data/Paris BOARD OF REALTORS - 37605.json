@@ -1,0 +1,17 @@
+{
+  "mls_id": "37605",
+  "mls_name": "Paris BOARD OF REALTORS",
+  "latitude": "30.27",
+  "longitude": "-97.74",
+  "office_address": "Austin TX 78768",
+  "office_city": "Austin",
+  "office_state": "TX",
+  "office_zip": "78768",
+  "phone": "(512) 480-8200",
+  "website": "www.parisrealtors.org",
+  "realtor_count_by_association": "16",
+  "associations": [
+    "PARIS BOARD OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

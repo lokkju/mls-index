@@ -1,0 +1,18 @@
+{
+  "mls_id": "37724",
+  "mls_name": "Olympic Listing Service",
+  "latitude": "48.07954",
+  "longitude": "-123.102",
+  "office_address": "Sequim WA 98382",
+  "office_city": "Sequim",
+  "office_state": "WA",
+  "office_zip": "98382",
+  "phone": "360-683-1456",
+  "website": "www.olypen.com",
+  "realtor_count_by_association": "261",
+  "associations": [
+    "PORT ANGELES ASSOCIATION OF REALTORS",
+    "SEQUIM ASSOCIATION OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

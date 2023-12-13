@@ -1,0 +1,19 @@
+{
+  "mls_id": "37213",
+  "mls_name": "Upstate New York Real Estate Information Services LLC",
+  "latitude": "43.09158",
+  "longitude": "-77.6422",
+  "office_address": "Rochester NY 14623",
+  "office_city": "Rochester",
+  "office_state": "NY",
+  "office_zip": "14623",
+  "phone": "(585) 341-2144",
+  "website": "http://www.grar.org/",
+  "realtor_count_by_association": "3416",
+  "associations": [
+    "GREATER ROCHESTER ASSOCIATION OF REALTORS",
+    "MCKEAN COUNTY ASSOCIATION OF REALTORS",
+    "CHAUTAUQUA-CATTARAUGUS BOARD OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

@@ -1,0 +1,18 @@
+{
+  "mls_id": "37536",
+  "mls_name": "Great Plains Regional MLS",
+  "latitude": "41.25462",
+  "longitude": "-96.105",
+  "office_address": "Omaha NE 68154",
+  "office_city": "Omaha",
+  "office_state": "NE",
+  "office_zip": "68154",
+  "phone": "(402) 619-5550",
+  "website": "www.omaharealtors.com",
+  "realtor_count_by_association": "4519",
+  "associations": [
+    "OMAHA AREA BOARD OF REALTORS",
+    "REALTORS ASSOCIATION OF LINCOLN"
+  ],
+  "zipcode_coverage": []
+}

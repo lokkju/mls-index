@@ -1,0 +1,17 @@
+{
+  "mls_id": "37186",
+  "mls_name": "Greenwich Multiple Listing Service",
+  "latitude": "41.06702",
+  "longitude": "-73.6183",
+  "office_address": "Greenwich CT 06830",
+  "office_city": "Greenwich",
+  "office_state": "CT",
+  "office_zip": "06830",
+  "phone": "(203) 869-0240",
+  "website": "http://www.greenwichrealtors.com/",
+  "realtor_count_by_association": "833",
+  "associations": [
+    "GREENWICH ASSOCIATION OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

@@ -1,0 +1,17 @@
+{
+  "mls_id": "37585",
+  "mls_name": "Texas Listing Service (TXLS)",
+  "latitude": "30.16688",
+  "longitude": "-96.3977",
+  "office_address": "Brenham TX 77833",
+  "office_city": "Brenham",
+  "office_state": "TX",
+  "office_zip": "77833",
+  "phone": "(979) 836-2011",
+  "website": "http://www.scbor.com/",
+  "realtor_count_by_association": "424",
+  "associations": [
+    "SOUTH CENTRAL BOARD OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

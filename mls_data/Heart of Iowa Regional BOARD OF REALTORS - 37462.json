@@ -1,0 +1,20 @@
+{
+  "mls_id": "37462",
+  "mls_name": "Heart of Iowa Regional BOARD OF REALTORS",
+  "latitude": "42.03205",
+  "longitude": "-93.5914",
+  "office_address": "Ames IA 50010",
+  "office_city": "Ames",
+  "office_state": "IA",
+  "office_zip": "50010",
+  "phone": "(515) 296-4680",
+  "website": "www.heartofiowamls.com",
+  "realtor_count_by_association": "781",
+  "associations": [
+    "MID-IOWA REGIONAL BOARD OF REALTORS",
+    "NORTH CENTRAL IOWA REGIONAL BOARD OF REALTORS",
+    "SOUTHEAST IOWA REGIONAL BOARD OF REALTORS",
+    "WEST CENTRAL IOWA REGIONAL BOARD OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

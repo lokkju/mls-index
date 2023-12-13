@@ -1,0 +1,17 @@
+{
+  "mls_id": "37537",
+  "mls_name": "Columbus BOARD OF REALTORS MLS",
+  "latitude": "41.4303",
+  "longitude": "-97.3594",
+  "office_address": "Columbus NE 68601",
+  "office_city": "Columbus",
+  "office_state": "NE",
+  "office_zip": "68601",
+  "phone": "402-564-1333",
+  "website": "http://www.nebraskarealtors.com",
+  "realtor_count_by_association": "88",
+  "associations": [
+    "COLUMBUS BOARD OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

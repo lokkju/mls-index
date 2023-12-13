@@ -1,0 +1,17 @@
+{
+  "mls_id": "37720",
+  "mls_name": "Southern Oregon MLS (SOMLS)",
+  "latitude": "42.28558",
+  "longitude": "-122.887",
+  "office_address": "Medford OR 97501",
+  "office_city": "Medford",
+  "office_state": "OR",
+  "office_zip": "97501",
+  "phone": "541-770-7060",
+  "website": "www.somls.com/",
+  "realtor_count_by_association": "1328",
+  "associations": [
+    "ROGUE VALLEY ASSOCIATION OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

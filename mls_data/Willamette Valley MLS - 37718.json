@@ -1,0 +1,20 @@
+{
+  "mls_id": "37718",
+  "mls_name": "Willamette Valley MLS",
+  "latitude": "44.90461",
+  "longitude": "-123.083",
+  "office_address": "Salem OR 97302",
+  "office_city": "Salem",
+  "office_state": "OR",
+  "office_zip": "97302",
+  "phone": "503-399-8657",
+  "website": "http://www.wvmls.com/",
+  "realtor_count_by_association": "2020",
+  "associations": [
+    "NORTH WILLAMETTE ASSOCIATION OF REALTORS",
+    "POLK COUNTY BOARD OF REALTORS",
+    "SALEM ASSOCIATION OF REALTORS",
+    "WILLAMETTE ASSOCIATION OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

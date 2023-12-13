@@ -1,0 +1,17 @@
+{
+  "mls_id": "37580",
+  "mls_name": "Galveston ASSOCIATION OF REALTORS MLS",
+  "latitude": "29.27842",
+  "longitude": "-94.8365",
+  "office_address": "Galveston TX 77551",
+  "office_city": "Galveston",
+  "office_state": "TX",
+  "office_zip": "77551",
+  "phone": "(409) 740-7444",
+  "website": "http://www.usamls.net/galveston/",
+  "realtor_count_by_association": "105",
+  "associations": [
+    "GALVESTON ASSOCIATION OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

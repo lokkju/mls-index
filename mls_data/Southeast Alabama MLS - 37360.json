@@ -1,0 +1,17 @@
+{
+  "mls_id": "37360",
+  "mls_name": "Southeast Alabama MLS",
+  "latitude": "31.13484",
+  "longitude": "-85.3963",
+  "office_address": "Dothan AL 36301",
+  "office_city": "Dothan",
+  "office_state": "AL",
+  "office_zip": "36301",
+  "phone": "(334) 793-9696",
+  "website": "http://www.usamls.net/dothan/default.asp",
+  "realtor_count_by_association": "444",
+  "associations": [
+    "DOTHAN ASSOCIATION OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

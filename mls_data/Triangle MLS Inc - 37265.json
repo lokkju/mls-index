@@ -1,0 +1,20 @@
+{
+  "mls_id": "37265",
+  "mls_name": "Triangle MLS Inc.",
+  "latitude": "35.8129",
+  "longitude": "-78.7816",
+  "office_address": "Cary NC 27513",
+  "office_city": "Cary",
+  "office_state": "NC",
+  "office_zip": "27513",
+  "phone": "(919) 654-5400",
+  "website": "https://www.trianglemls.com/",
+  "realtor_count_by_association": "13206",
+  "associations": [
+    "DURHAM REGIONAL ASSOCIATION OF REALTORS",
+    "JOHNSTON COUNTY ASSOCIATION OF REALTORS",
+    "ORANGE CHATHAM ASSOCIATION OF REALTORS",
+    "RALEIGH REGIONAL ASSOCIATION OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

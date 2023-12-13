@@ -1,0 +1,17 @@
+{
+  "mls_id": "37327",
+  "mls_name": "REALTORS ASSOCIATION of Franklin & Gulf Counties",
+  "latitude": "29.72577",
+  "longitude": "-84.9832",
+  "office_address": "Apalachicola FL 32320",
+  "office_city": "Apalachicola",
+  "office_state": "FL",
+  "office_zip": "32320",
+  "phone": "850-653-3322",
+  "website": "www.rafgc.com",
+  "realtor_count_by_association": "300",
+  "associations": [
+    "REALTORS ASSOCIATION OF FRANKLIN & GULF COUNTIES"
+  ],
+  "zipcode_coverage": ["32301","32303","32304","32311","32312","32320","32321","32322","32323","32324","32327","32328","32334","32346","32348","32351","32355","32358","32401","32404","32405","32407","32408","32409","32413","32420","32421","32430","32439","32444","32445","32446","32448","32449","32456","32459","32460","32464","32465","32466","32541","32566","33570","34682","34683"]
+}

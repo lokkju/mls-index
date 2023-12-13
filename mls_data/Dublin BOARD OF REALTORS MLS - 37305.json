@@ -1,0 +1,17 @@
+{
+  "mls_id": "37305",
+  "mls_name": "Dublin BOARD OF REALTORS MLS",
+  "latitude": "32.54044",
+  "longitude": "-82.9038",
+  "office_address": "Dublin GA 31021",
+  "office_city": "Dublin",
+  "office_state": "GA",
+  "office_zip": "31021",
+  "phone": "(478) 689-6800",
+  "website": "http://www.dublingarealestate.com/",
+  "realtor_count_by_association": "96",
+  "associations": [
+    "DUBLIN BOARD OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

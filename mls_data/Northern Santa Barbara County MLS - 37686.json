@@ -1,0 +1,19 @@
+{
+  "mls_id": "37686",
+  "mls_name": "Northern Santa Barbara County MLS",
+  "latitude": "34.95303",
+  "longitude": "-120.436",
+  "office_address": "Santa Maria CA 93454",
+  "office_city": "Santa Maria",
+  "office_state": "CA",
+  "office_zip": "93454",
+  "phone": "805-922-7888",
+  "website": "https://www.smaor.com/mls/",
+  "realtor_count_by_association": "614",
+  "associations": [
+    "LOMPOC VALLEY ASSOCIATION OF REALTORS",
+    "SANTA MARIA ASSOCIATION OF REALTORS",
+    "SANTA YNEZ VALLEY ASSOCIATION OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

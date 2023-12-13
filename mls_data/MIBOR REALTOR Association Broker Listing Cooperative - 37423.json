@@ -1,0 +1,19 @@
+{
+  "mls_id": "37423",
+  "mls_name": "MIBOR REALTOR Association Broker Listing Cooperative",
+  "latitude": "39.77948",
+  "longitude": "-86.1701",
+  "office_address": "Indianapolis IN 46202",
+  "office_city": "Indianapolis",
+  "office_state": "IN",
+  "office_zip": "46202",
+  "phone": "(317) 956-1912",
+  "website": "http://www.mibor.com/",
+  "realtor_count_by_association": "9822",
+  "associations": [
+    "CROSSROADS ASSOCIATION OF REALTORS",
+    "MIBOR REALTOR ASSOCIATION",
+    "PUTNAM COUNTY BOARD OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

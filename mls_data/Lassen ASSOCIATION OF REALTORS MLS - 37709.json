@@ -1,0 +1,17 @@
+{
+  "mls_id": "37709",
+  "mls_name": "Lassen ASSOCIATION OF REALTORS MLS",
+  "latitude": "40.41628",
+  "longitude": "-120.653",
+  "office_address": "Susanville CA 96130",
+  "office_city": "Susanville",
+  "office_state": "CA",
+  "office_zip": "96130",
+  "phone": "(530) 257-5220",
+  "website": "www.lassen.com",
+  "realtor_count_by_association": "56",
+  "associations": [
+    "LASSEN ASSOCIATION OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

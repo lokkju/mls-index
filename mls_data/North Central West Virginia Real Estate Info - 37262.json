@@ -1,0 +1,21 @@
+{
+  "mls_id": "37262",
+  "mls_name": "North Central West Virginia Real Estate Info.",
+  "latitude": "39.28648",
+  "longitude": "-80.2562",
+  "office_address": "Bridgeport WV 26330",
+  "office_city": "Bridgeport",
+  "office_state": "WV",
+  "office_zip": "26330",
+  "phone": "304-842-2785",
+  "website": "http://www.ncwvmls.com/",
+  "realtor_count_by_association": "864",
+  "associations": [
+    "ELKINS RANDOLPH BOARD OF REALTORS",
+    "FAIRMONT BOARD OF REALTORS",
+    "HARRISON COUNTY ASSOCIATION OF REALTORS",
+    "MORGANTOWN BOARD OF REALTORS",
+    "WESTON BUCKHANNON BOARD OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

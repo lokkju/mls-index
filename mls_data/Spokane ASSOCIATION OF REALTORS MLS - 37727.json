@@ -1,0 +1,17 @@
+{
+  "mls_id": "37727",
+  "mls_name": "Spokane ASSOCIATION OF REALTORS MLS",
+  "latitude": "47.70007",
+  "longitude": "-117.452",
+  "office_address": "Spokane WA 99205",
+  "office_city": "Spokane",
+  "office_state": "WA",
+  "office_zip": "99205",
+  "phone": "509-326-9222",
+  "website": "http://www.spokanerealtor.com/",
+  "realtor_count_by_association": "2483",
+  "associations": [
+    "SPOKANE ASSOCIATION OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

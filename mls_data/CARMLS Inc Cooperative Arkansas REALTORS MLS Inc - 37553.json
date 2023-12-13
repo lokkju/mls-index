@@ -1,0 +1,29 @@
+{
+  "mls_id": "37553",
+  "mls_name": "CARMLS, Inc. (Cooperative Arkansas REALTORS MLS, Inc.)",
+  "latitude": "34.74866",
+  "longitude": "-92.3542",
+  "office_address": "Little Rock AR 72205",
+  "office_city": "Little Rock",
+  "office_state": "AR",
+  "office_zip": "72205",
+  "phone": "(501) 224-3339",
+  "website": "http://www.carmls.com/",
+  "realtor_count_by_association": "4424",
+  "associations": [
+    "CLEBURNE COUNTY BOARD OF REALTORS",
+    "CONWAY & PERRY COUNTIES REALTORS ASSOCIATION",
+    "FAULKNER COUNTY BOARD OF REALTORS",
+    "HOT SPRINGS VILLAGE BOARD OF REALTORS",
+    "LITTLE ROCK REALTORS ASSOCIATION",
+    "MENA AREA BOARD OF REALTORS",
+    "NORTH PULASKI BOARD OF REALTORS",
+    "PARAGOULD BOARD OF REALTORS",
+    "PINE BLUFF BOARD OF REALTORS",
+    "SEARCY BOARD OF REALTORS",
+    "SOUTH CENTRAL ARKANSAS REALTORS ASSOCIATION",
+    "TRI COUNTY BOARD OF REALTORS",
+    "VAN BUREN COUNTY BOARD OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

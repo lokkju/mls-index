@@ -1,0 +1,18 @@
+{
+  "mls_id": "37658",
+  "mls_name": "Western Arizona REALTOR Data Exchange",
+  "latitude": "35.07718",
+  "longitude": "-114.56",
+  "office_address": "Bullhead City AZ 86442",
+  "office_city": "Bullhead City",
+  "office_state": "AZ",
+  "office_zip": "86442",
+  "phone": "(928) 704-2800",
+  "website": "http://wardex.net/home",
+  "realtor_count_by_association": "716",
+  "associations": [
+    "BULLHEAD CITY MOHAVE VALLEY ASSOCIATION OF REALTORS",
+    "KINGMAN GOLDEN VALLEY ASSOCIATION OF REALTORS"
+  ],
+  "zipcode_coverage": ["85301","85344","85346","85360","85375","85901","86021","86046","86315","86320","86333","86337","86401","86402","86403","86404","86406","86409","86411","86413","86426","86429","86431","86432","86433","86434","86436","86437","86438","86440","86441","86442","86444","86445","89028","89029","89039","92363"]
+}

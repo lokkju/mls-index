@@ -1,0 +1,17 @@
+{
+  "mls_id": "37710",
+  "mls_name": "South Tahoe ASSOCIATION OF REALTORS INC MLS",
+  "latitude": "38.93993",
+  "longitude": "-119.977",
+  "office_address": "South Lake Tahoe CA 96150",
+  "office_city": "South Lake Tahoe",
+  "office_state": "CA",
+  "office_zip": "96150",
+  "phone": "(530) 541-7007",
+  "website": "www.STAOR.org",
+  "realtor_count_by_association": "300",
+  "associations": [
+    "SOUTH TAHOE ASSOCIATION OF REALTORS"
+  ],
+  "zipcode_coverage": ["89402","89410","89411","89413","89423","89429","89447","89448","89449","89451","89460","89501","89506","89509","89511","89519","89521","89523","89701","89703","89705","89706","93517","95321","95425","95616","95635","95646","95666","95667","95682","95689","95720","95726","95735","95936","96107","96118","96120","96133","96140","96141","96142","96143","96145","96150","96151","96158","96161"]
+}

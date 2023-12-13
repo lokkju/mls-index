@@ -1,0 +1,17 @@
+{
+  "mls_id": "37606",
+  "mls_name": "TARMLS",
+  "latitude": "30.27",
+  "longitude": "-97.74",
+  "office_address": "Austin TX 78768",
+  "office_city": "Austin",
+  "office_state": "TX",
+  "office_zip": "78768",
+  "phone": "(512) 370-2132",
+  "website": "www.texasrealtors.com",
+  "realtor_count_by_association": "95",
+  "associations": [
+    "JASPER AREA BOARD OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

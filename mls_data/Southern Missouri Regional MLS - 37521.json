@@ -1,0 +1,23 @@
+{
+  "mls_id": "37521",
+  "mls_name": "Southern Missouri Regional MLS",
+  "latitude": "37.15651",
+  "longitude": "-93.2483",
+  "office_address": "Springfield MO 65804",
+  "office_city": "Springfield",
+  "office_state": "MO",
+  "office_zip": "65804",
+  "phone": "(417) 883-1226",
+  "website": "https://www.somomls.com/",
+  "realtor_count_by_association": "4071",
+  "associations": [
+    "GREATER SPRINGFIELD BOARD OF REALTORS",
+    "NEWTON MC DONALD COUNTIES BOARD OF REALTORS",
+    "OZARK TRAIL BOARD OF REALTORS",
+    "OZARKS BOARD OF REALTORS",
+    "SOUTHWEST MISSOURI BOARD OF REALTORS",
+    "TRI LAKES BOARD OF REALTORS",
+    "WEST PLAINS BOARD OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

@@ -1,0 +1,21 @@
+{
+  "mls_id": "37662",
+  "mls_name": "New Mexico Multi-Board MLS",
+  "latitude": "35.61607",
+  "longitude": "-105.853",
+  "office_address": "Santa Fe NM 87505",
+  "office_city": "Santa Fe",
+  "office_state": "NM",
+  "office_zip": "87505",
+  "phone": "(505) 982-2442",
+  "website": "www.nmrealtor.com",
+  "realtor_count_by_association": "449",
+  "associations": [
+    "CARLSBAD BOARD OF REALTORS",
+    "CLOVIS BOARD OF REALTORS",
+    "DEMING LUNA COUNTY BOARD OF REALTORS",
+    "LAS VEGAS BOARD OF REALTORS",
+    "ROSWELL BOARD OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

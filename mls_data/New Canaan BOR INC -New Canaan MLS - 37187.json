@@ -1,0 +1,17 @@
+{
+  "mls_id": "37187",
+  "mls_name": "New Canaan BOR INC -New Canaan MLS",
+  "latitude": "41.16745",
+  "longitude": "-73.5005",
+  "office_address": "New Canaan CT 06840",
+  "office_city": "New Canaan",
+  "office_state": "CT",
+  "office_zip": "06840",
+  "phone": "(203) 966-9523",
+  "website": "http://www.newcanaanbor.com/",
+  "realtor_count_by_association": "247",
+  "associations": [
+    "NEW CANAAN BOARD OF REALTORS"
+  ],
+  "zipcode_coverage": ["06460","06810","06820","06824","06830","06831","06840","06850","06851","06854","06855","06877","06880","06896","06897","06901","06902","06905","06906","06907"]
+}

@@ -1,0 +1,21 @@
+{
+  "mls_id": "37588",
+  "mls_name": "Central Texas MLS",
+  "latitude": "29.70498",
+  "longitude": "-98.0683",
+  "office_address": "New Braunfels TX 78130",
+  "office_city": "New Braunfels",
+  "office_state": "TX",
+  "office_zip": "78130",
+  "phone": "(830) 625-6954",
+  "website": "www.ctxmls.com",
+  "realtor_count_by_association": "5689",
+  "associations": [
+    "FORT HOOD AREA ASSOCIATION OF REALTORS",
+    "FOUR RIVERS ASSOCIATION OF REALTORS",
+    "TEMPLE BELTON BOARD OF REALTORS",
+    "VICTORIA AREA ASSOCIATION OF REALTORS",
+    "WILLIAMSON COUNTY ASSOCIATION OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

@@ -1,0 +1,17 @@
+{
+  "mls_id": "37498",
+  "mls_name": "Badlands BOARD OF REALTORS MLS",
+  "latitude": "46.87918",
+  "longitude": "-102.79",
+  "office_address": "Dickinson ND 58601",
+  "office_city": "Dickinson",
+  "office_state": "ND",
+  "office_zip": "58601",
+  "phone": "(701) 483-0333",
+  "website": "http://www.flexmls.com/cgi-bin/mainmenu.cgi?cmd=url+pubweb/index.html&no_html_header=true&entity=badlands",
+  "realtor_count_by_association": "106",
+  "associations": [
+    "BADLANDS BOARD OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

@@ -1,0 +1,19 @@
+{
+  "mls_id": "37639",
+  "mls_name": "Snake River Regional MLS",
+  "latitude": "43.42659",
+  "longitude": "-111.904",
+  "office_address": "Idaho Falls ID 83406",
+  "office_city": "Idaho Falls",
+  "office_state": "ID",
+  "office_zip": "83406",
+  "phone": "(208) 523-1477",
+  "website": "https://snakerivermls.com/",
+  "realtor_count_by_association": "958",
+  "associations": [
+    "GREATER BLACKFOOT ASSOCIATION OF REALTORS",
+    "GREATER IDAHO FALLS ASSOCIATION OF REALTORS",
+    "UPPER VALLEY ASSOCIATION OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

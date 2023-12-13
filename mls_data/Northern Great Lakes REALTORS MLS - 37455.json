@@ -1,0 +1,19 @@
+{
+  "mls_id": "37455",
+  "mls_name": "Northern Great Lakes REALTORS MLS",
+  "latitude": "44.76306",
+  "longitude": "-85.6206",
+  "office_address": "Traverse City MI 49686",
+  "office_city": "Traverse City",
+  "office_state": "MI",
+  "office_zip": "49686",
+  "phone": "231-944-7143",
+  "website": "http://www.nglrmls.com/",
+  "realtor_count_by_association": "1346",
+  "associations": [
+    "CENTRAL MICHIGAN ASSOCIATION OF REALTORS",
+    "NORTHEASTERN MICHIGAN BOARD OF REALTORS",
+    "ASPIRE NORTH REALTORS ASSOCIATION"
+  ],
+  "zipcode_coverage": []
+}

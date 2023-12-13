@@ -1,0 +1,17 @@
+{
+  "mls_id": "37614",
+  "mls_name": "Greater El Paso ASSOCIATION OF REALTORS MLS",
+  "latitude": "31.7699",
+  "longitude": "-106.423",
+  "office_address": "El Paso TX 79905",
+  "office_city": "El Paso",
+  "office_state": "TX",
+  "office_zip": "79905",
+  "phone": "(915) 779-3521",
+  "website": "http://www.elpasorealtor.com/",
+  "realtor_count_by_association": "2903",
+  "associations": [
+    "GREATER EL PASO ASSOCIATION OF REALTORS"
+  ],
+  "zipcode_coverage": ["79821","79835","79836","79837","79838","79839","79849","79853","79901","79902","79903","79904","79905","79907","79911","79912","79915","79922","79924","79925","79927","79928","79930","79932","79934","79935","79936","79938","88001","88008","88011","88012","88021","88024","88044","88047","88063","88081","88345","88346"]
+}

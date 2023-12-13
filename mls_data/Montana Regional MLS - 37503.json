@@ -1,0 +1,22 @@
+{
+  "mls_id": "37503",
+  "mls_name": "Montana Regional MLS",
+  "latitude": "48.19199",
+  "longitude": "-114.317",
+  "office_address": "Kalispell MT 59901",
+  "office_city": "Kalispell",
+  "office_state": "MT",
+  "office_zip": "59901",
+  "phone": "406-752-4197",
+  "website": "www.nmar.com",
+  "realtor_count_by_association": "3307",
+  "associations": [
+    "BITTERROOT VALLEY BOARD OF REALTORS",
+    "GREAT FALLS ASSOCIATION OF REALTORS",
+    "HELENA ASSOCIATION OF REALTORS",
+    "MISSOULA COUNTY ASSOCIATION OF REALTORS",
+    "NORTHWEST MONTANA ASSOCIATION OF REALTORS",
+    "ROCKY MOUNTAIN ASSOCIATION OF REALTORS"
+  ],
+  "zipcode_coverage": []
+}

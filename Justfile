@@ -11,6 +11,7 @@ build_mls_data:
 release:
     #!/bin/bash
     set -e
+    trap "exit" INT
 
     command -v gh >/dev/null 2>&1 || { echo >&2 "I require gh, the github cli, but it's not installed.  Aborting."; exit 1; }
     command -v git >/dev/null 2>&1 || { echo >&2 "I require git, but it's not installed.  Aborting."; exit 1; }

@@ -20,5 +20,5 @@ release:
       git tag -a "v$current_git_tag" -m "v$current_git_tag"
     fi
 
-    [ -f "_data/mls_data-$current_git_tag.gpkg"] || just build_mls_data && mv _data/mls_data.gpkg "_data/mls_data-$current_git_tag.gpkg"
+    [ -f "_data/mls_data-$current_git_tag.gpkg" ] || just build_mls_data && mv _data/mls_data.gpkg "_data/mls_data-$current_git_tag.gpkg"
 

@@ -4,6 +4,8 @@ default:
     @just --list
 
 build_mls_data:
+    #!/bin/bash
+    
     command -v poetry >/dev/null 2>&1 || { echo >&2 "I require poetry, but it's not installed.  Aborting."; exit 1; }
     poetry install
     poetry run python build_geopackage.py build-mls-data

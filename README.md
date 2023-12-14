@@ -1,10 +1,34 @@
-# MLS Service Data Index
-This project is a repository of data for MLS services.
+# MLS System Data Index
+This project is a repository of data for MLS systems.
 
 The MLS names and ids are synchronized with the data provided by NAR at https://blog.narrpr.com/mls-map-embed/
 
 The rest of the data is crowd-sourced and maintained by the community. Please help out by opening tickets or pull requests, with any additional data you have - especially lists of zip codes covered by each MLS.
 
+## Current Coverage:
+- 555 MLS Systems
+- 129 MLS Systems with Zip Codes
+- 426 MLS Systems without Zip Codes
+- 27138 Total Zip Codes Covered
+
+![MLS System Region Coverage](https://github.com/lokkju/mls-index/blob/main/docs/mls_data.png?raw=true)
+
+### Script to update coverage data
+```bash
+just build_mls_data
+cp _data/mls_data.png docs/mls_data.png
+MLS_COUNT=`jq -s '.|length' _data/mls_data.jsonl`
+MLS_WITH_ZIPCODES=`jq -s '[ .[] | select( .zipcode_coverage | length > 0) ]|length' _data/mls_data.jsonl`
+MLS_WITHOUT_ZIPCODES=`jq -s '[ .[] | select( .zipcode_coverage | length == 0) ]|length' _data/mls_data.jsonl`
+TOTAL_ZIPCODES_COVERED=`jq -s '[ .[] | .zipcode_coverage[] ]|unique|length' _data/mls_data.jsonl`
+echo "- $MLS_COUNT MLS Systems"
+echo "- $MLS_WITH_ZIPCODES MLS Systems with Zip Codes"
+echo "- $MLS_WITHOUT_ZIPCODES MLS Systems without Zip Codes"
+echo "- $TOTAL_ZIPCODES_COVERED Total Zip Codes Covered"
+```
+
+```bash
+```
 ## Data
 The data is stored in individual JSON files in the `mls_data` directory.
 Each file is named `{mls_name} - {mls_id}.json` and contains the following fields:
@@ -17,10 +41,10 @@ Each file is named `{mls_name} - {mls_id}.json` and contains the following field
 - `office_state`: The state of the MLS office
 - `office_zip`: The zip code of the MLS office 
 - `phone`: The phone number of the MLS office
-- `website`: The website of the MLS service
+- `website`: The website of the MLS system
 - `realtor_count_by_association`: The number of member realtors
-- `associations`: A list of associations that are part of the MLS service
-- `zipcode_coverage`: A list of zip codes that are covered by the MLS service
+- `associations`: A list of associations that are part of the MLS system
+- `zipcode_coverage`: A list of zip codes that are covered by the MLS system
 
 ## Data Products
 The above individual JSON files are combined into the following data products:

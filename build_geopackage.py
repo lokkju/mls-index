@@ -3,6 +3,7 @@ import click
 import os
 import re
 import json
+import jsonlines
 import sys
 import pyjq
 from datetime import datetime
@@ -100,6 +101,8 @@ def build_mls_data():
     for filename in os.listdir("mls_data"):
         if filename.endswith(".json"):
             mls_data.append(json.load(open(os.path.join("mls_data", filename))))
+    with jsonlines.open("_data/mls_data.jsonl", 'w') as writer:
+        writer.write_all(mls_data)
     df = pd.DataFrame(mls_data)
 
     df['geometry'] = df['zipcode_coverage'].progress_apply(zipcodes_to_covering)

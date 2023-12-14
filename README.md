@@ -5,6 +5,14 @@ The MLS names and ids are synchronized with the data provided by NAR at https://
 
 The rest of the data is crowd-sourced and maintained by the community. Please help out by opening tickets or pull requests, with any additional data you have - especially lists of zip codes covered by each MLS.
 
+## Data Products
+The individual JSON files are compiled into the following data products:
+- [mls_data.jsonl](https://github.com/lokkju/mls-index/releases/latest/download/mls_data.jsonl): A JSONL file containing all the data in jsonlines format
+- [mls_data.gpkg](https://github.com/lokkju/mls-index/releases/latest/download/mls_data.gpkg): A GeoPackage file containing all the data in GeoPackage format, with the geometry column being set to a polygon generated from the zipcodes in the zipcode coverage list
+- [mls_data.png](https://github.com/lokkju/mls-index/releases/latest/download/mls_data.png): A PNG plot of polygons in the GeoPackage file
+
+These data products are released as [GitHub releases](https://github.com/lokkju/mls-index/releases)
+
 ## Current Coverage:
 - 555 MLS Systems
 - 129 MLS Systems with Zip Codes
@@ -29,14 +37,6 @@ Each file is named `{mls_name} - {mls_id}.json` and contains the following field
 - `realtor_count_by_association`: The number of member realtors
 - `associations`: A list of associations that are part of the MLS system
 - `zipcode_coverage`: A list of zip codes that are covered by the MLS system
-
-## Data Products
-The above individual JSON files are combined into the following data products:
-- `mls_data.jsonl`: A JSONL file containing all the data in jsonlines format
-- `mls_data.gpkg`: A GeoPackage file containing all the data in GeoPackage format, with the geometry column being set to a polygon generated from the zipcodes in the zipcode coverage list
-- `mls_data.png`: A PNG plot of polygons in the GeoPackage file
-
-These data products are released as GitHub releases.
 
 ## Tooling
 The Justfile contains a number of commands to help with the creating the data products:

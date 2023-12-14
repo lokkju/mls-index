@@ -119,9 +119,9 @@ def build_mls_data(buffer, tolerance, preserve):
     gdf = gpd.GeoDataFrame(df, crs=4326)
     gdf.set_index("mls_id", inplace=True)
     gdf.to_file("_data/mls_data.gpkg", driver="GPKG", index=True, layer="mls_data")
-    ax = gdf.plot(figsize=(12, 9), cmap='nipy_spectral', alpha=0.5)
-    cx.add_basemap(ax, crs=gdf.crs)
-    plt.savefig('_data/mls_data.png', dpi=300, bbox_inches='tight')
+    ax = gdf.to_crs(3857).plot(figsize=(12, 9), cmap='nipy_spectral', alpha=0.5)
+    cx.add_basemap(ax, source=cx.providers.OpenStreetMap.Mapnik)
+    plt.savefig('_data/mls_data.png', dpi=300, bbox_inches='tight', pad_inches=0.1)
 
 if __name__ == "__main__":
     cli()

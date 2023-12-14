@@ -18,6 +18,8 @@ matplotlib = "^3.8.2"
 folium = "^0.15.1"
 mapclassify = "^2.6.1"
 jsonlines = "^4.0.0"
+pandarallel = "^1.6.5"
+contextily = "^1.4.0"
 
 
 [build-system]

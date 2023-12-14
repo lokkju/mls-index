@@ -13,22 +13,6 @@ The rest of the data is crowd-sourced and maintained by the community. Please he
 
 ![MLS System Region Coverage](https://github.com/lokkju/mls-index/blob/main/docs/mls_data.png?raw=true)
 
-### Script to update coverage data
-```bash
-just build_mls_data
-cp _data/mls_data.png docs/mls_data.png
-MLS_COUNT=`jq -s '.|length' _data/mls_data.jsonl`
-MLS_WITH_ZIPCODES=`jq -s '[ .[] | select( .zipcode_coverage | length > 0) ]|length' _data/mls_data.jsonl`
-MLS_WITHOUT_ZIPCODES=`jq -s '[ .[] | select( .zipcode_coverage | length == 0) ]|length' _data/mls_data.jsonl`
-TOTAL_ZIPCODES_COVERED=`jq -s '[ .[] | .zipcode_coverage[] ]|unique|length' _data/mls_data.jsonl`
-echo "- $MLS_COUNT MLS Systems"
-echo "- $MLS_WITH_ZIPCODES MLS Systems with Zip Codes"
-echo "- $MLS_WITHOUT_ZIPCODES MLS Systems without Zip Codes"
-echo "- $TOTAL_ZIPCODES_COVERED Total Zip Codes Covered"
-```
-
-```bash
-```
 ## Data
 The data is stored in individual JSON files in the `mls_data` directory.
 Each file is named `{mls_name} - {mls_id}.json` and contains the following fields:

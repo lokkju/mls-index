@@ -121,7 +121,7 @@ def build_mls_data(buffer, tolerance, preserve):
     gdf.to_file("_data/mls_data.gpkg", driver="GPKG", index=True, layer="mls_data")
     ax = gdf.plot(figsize=(12, 9), cmap='nipy_spectral', alpha=0.5)
     cx.add_basemap(ax, crs=gdf.crs)
-    plt.savefig('_data/mls_data.png', dpi=300)
+    plt.savefig('_data/mls_data.png', dpi=300, bbox_inches='tight')
 
 if __name__ == "__main__":
     cli()

@@ -1,1 +1,4 @@
 _data/
+.idea/
+.nar_mls_data.html
+poetry.lock
